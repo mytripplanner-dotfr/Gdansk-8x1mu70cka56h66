@@ -1,0 +1,155 @@
+{
+  "pays": "Pologne",
+  "drapeau": "🇵🇱",
+  "symbole": "⚓",
+  "titre": "Escapade relaxante à Gdansk",
+  "budget_total": "538€",
+  "duree": "3 jours",
+  "temps_vol": "2h15 depuis Paris, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur dans la Perle de la Baltique",
+      "legende": "Après votre vol, installez-vous confortablement et laissez-vous charmer par l\"architecture colorée et l\"ambiance sereine de la Vieille Ville de Gdansk. Une première immersion tout en douceur.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🛬 Arrivée à Gdansk</strong>: Atterrissage à l\"aéroport Lech Wałęsa (GDN) et transfert vers votre hébergement au cœur de la ville.",
+        "<strong>🛏️ Installation et détente</strong>: Prenez le temps de vous installer à l\"hôtel et de vous rafraîchir avant de partir à la découverte.",
+        "<strong>🚶‍♀️ Balade relaxante dans la Vieille Ville</strong>: Flânez le long de la Longue Rue (Długa) et de la Longue Place (Długi Targ), admirez les façades colorées et la Fontaine de Neptune.",
+        "<strong>🍽️ Dîner au bord de la Motława</strong>: Savourez un repas typique polonais dans un restaurant avec vue sur la rivière, pour une fin de journée paisible."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transfert aéroport",
+          "texte": "Le bus 210 relie l\"aéroport au centre-ville en environ 40 minutes. Les taxis et VTC sont aussi disponibles."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "💎",
+      "titre": "Trésors d\"ambre et croisière fluviale",
+      "legende": "Plongez dans l\"histoire fascinante de l\"ambre, \"l\"or de la Baltique\", avant de vous offrir une perspective unique sur la ville lors d\"une croisière apaisante sur la Motława. Une journée entre culture et sérénité.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🏛️ Visite du Musée de l\"Ambre</strong>: Découvrez l\"histoire, la formation et l\"artisanat de l\"ambre, un symbole de Gdansk, dans un cadre magnifique.",
+        "<strong>⛵ Croisière relaxante sur la Motława</strong>: Embarquez pour une balade tranquille sur la rivière, admirant les monuments emblématiques depuis l\"eau, comme la Grue Médiévale.",
+        "<strong>🌳 Détente au Parc Oruński</strong>: Profitez d\"une promenade paisible dans ce grand parc verdoyant, idéal pour se ressourcer loin de l\"agitation urbaine."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil Ambre",
+          "texte": "De nombreuses boutiques proposent de l\"ambre. Privilégiez les magasins certifiés pour garantir l\"authenticité de vos achats."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Balade",
+          "texte": "Le Parc Oruński est un peu excentré, prévoyez un court trajet en transport en commun pour y accéder."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌿",
+      "titre": "Sérénité à Oliwa et départ",
+      "legende": "Commencez la journée par une immersion dans la nature et la spiritualité au Parc Oliwski et sa cathédrale, avant de profiter d\"un dernier moment de calme et de préparer votre départ de cette charmante ville.",
+      "lieu": "Gdansk",
+      "activites": [
+        "<strong>🌸 Promenade au Parc Oliwski et Cathédrale</strong>: Explorez les magnifiques jardins paysagers du Parc Oliwski et visitez la Cathédrale d\"Oliwa, célèbre pour son orgue monumental et ses concerts.",
+        "<strong>☕ Pause café et souvenirs</strong>: Profitez d\"un dernier café polonais et achetez quelques souvenirs locaux dans les petites boutiques.",
+        "<strong>✈️ Départ de Gdansk</strong>: Transfert vers l\"aéroport pour votre vol retour, la tête remplie de souvenirs apaisants."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎶",
+          "titre": "Concerts d\"orgue",
+          "texte": "Renseignez-vous sur les horaires des concerts d\"orgue à la Cathédrale d\"Oliwa, une expérience acoustique unique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "198 €/pers (A/R Paris-Gdansk)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 20 €/pers (bus, tram)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 100 €/pers (35€/jour)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 170 €/pers (2 nuits en 3*)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 50 €/pers (musées, croisière)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Septembre",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie est le Złoty polonais (PLN). Les cartes bancaires sont largement acceptées, mais ayez un peu de liquide pour les petits commerces.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "La langue officielle est le polonais. L\"anglais est parlé dans les zones touristiques et par les jeunes.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Le réseau de tram et de bus est efficace pour se déplacer dans Gdansk et ses environs (Oliwa, Sopot).",
+      "symbole": "🚌"
+    },
+    {
+      "titre": "Les étés sont doux à Gdansk (18-22°C), les printemps et automnes frais. Prévoyez des couches de vêtements.",
+      "symbole": "🌦️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-GDN/2026-04-15/2026-04-18",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Gdansk",
+      "url": "https://www.gdansk.pl/en/tourist-information",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Transports en commun",
+      "titre": "ZTM Gdansk",
+      "url": "https://ztm.gda.pl/en/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Gdansk",
+      "url": "https://www.accuweather.com/fr/pl/gdansk/275003/weather-forecast/275003",
+      "symbole": "🌤️"
+    }
+  ]
+}
